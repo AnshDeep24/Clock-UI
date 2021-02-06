@@ -1,3 +1,5 @@
+alert('Time kharab hai fir bhi ghaadhi dekhni hai ')
+
 setInterval(() => {
     d = new Date();
     htime = d.getHours();
